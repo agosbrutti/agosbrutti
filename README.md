@@ -27,7 +27,7 @@ I am excited about what the future holds in the world of backend development!
 ### Contact:
 - **Email:** agostinabrutti98@gmail.com
 - **LinkedIn:** (https://www.linkedin.com/in/agostina-brutti)
-- **GitHub:** (https://github.com/agos-brutti)
+- **GitHub:** (https://github.com/agosbrutti)
 
 Thank you for visiting and learning more about my journey and aspirations!
 
